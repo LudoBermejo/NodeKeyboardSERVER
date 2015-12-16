@@ -1,3 +1,1 @@
-var IOServer = require("./lib/IOServer.js")
-
-IOServer.create();
+var IOServer = require("./lib/IOServer.js")();
