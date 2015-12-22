@@ -14,5 +14,5 @@ Then you must change the database connection (in config.js) and maybe the port (
 
 #### How to work
 
-You only need to execute the app.js; the server will create the socket server and connect with the database
+You only need to execute the app.js; the server will create the socket server and connect with the database. <
 
