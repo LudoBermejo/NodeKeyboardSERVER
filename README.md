@@ -1,6 +1,6 @@
 # NodeKeyboardServer #
 
-This is the webpage part of my NodeKeyboard app, a project that joins _Raspberry Pi_, _Makey makey_ and _Node_ in one and awesome project! 
+This is the server part of my NodeKeyboard app, a project that joins _Raspberry Pi_, _Makey makey_ and _Node_ in one and awesome project! 
 
 ## Getting started ##
 
